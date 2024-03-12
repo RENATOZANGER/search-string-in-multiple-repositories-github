@@ -1,4 +1,4 @@
-# Find Text in Repository
+# Search multiple repositories under a single owner that has a specific text
 
 In this Python script, it is possible to search several repositories that have a certain word in the owner's github, if found, search if each repository has a certain string.
 
