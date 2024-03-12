@@ -1,7 +1,10 @@
 # Find Text in Repository
 
 In this Python script, it is possible to search several repositories that have a certain word in the owner's github, if found, search if each repository has a certain string.
-The results will be saved in a txt file.
+
+The result will save a file with all the repositories found and another file with all the strings found in each repository
+
+As an example, I am searching for all repositories that contain the word `sns` in the owner `aws-samples`, if the repositories are found, it will be searched for which repositories have the text `boto3`.
 
 ### Required parameters:
 

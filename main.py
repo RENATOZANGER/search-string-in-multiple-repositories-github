@@ -8,7 +8,7 @@ def main():
     api = GitHubAPI(token)
     
     repo_has_string = "sns"
-    owner = "owner_repository"
+    owner = "aws-samples"
     find_text = "boto3"
     query = f'{owner}/{repo_has_string}'
     
